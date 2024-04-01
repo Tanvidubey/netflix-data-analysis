@@ -1,4 +1,4 @@
-# Netflix Viewer Analytics and Prediction
+# Netflix Data Analysis
 
 # About Data
 
